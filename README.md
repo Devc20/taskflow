@@ -1,4 +1,4 @@
-# TaskFlow — Proyecto de arranque hacia AI Engineer
+# TaskFlow — Gestiona tus tareas pendientes en un solo lugar
 
 Aplicación de gestión de tareas full stack.
 
