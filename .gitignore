@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Entorno
+.env
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Tests / cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
